@@ -1,5 +1,14 @@
 # 💫 About Me:
-# Hi there, I'm Sachin! 👋<br><br>### 🚀 About Me<br>I am an undergraduate Computer Science Engineering student passionate about **Web Development**, **Software Engineering**, and building interactive digital experiences. I love turning complex problems into clean, efficient, and beautiful code. <br><br>- 🛠️ Currently exploring advanced frontend frameworks and full-stack development.<br>- 🎯 Actively participating in hackathons, technical expos, and open-source projects.<br>- 💼 Experienced in brand execution and community leadership.<br>- 🌱 Continuously learning and refining my skills in machine learning and modern web tech.<br><br>---<br><br>### 💻 Tech Stack & Tools<br><br>| Category | Technologies |<br>| :--- | :--- |<br>| **Languages** | C, Python, Java, JavaScript, HTML5, CSS3 |<br>| **Tools & Platforms** | Git, GitHub, VS Code |<br>| **Design & AI** | UI/UX Concepts, AI-assisted development & creative tools |<br><br>---<br><br>### 📂 Featured Projects<br><br>*   **3D Interactive Website** – A dynamic, interactive web experience featuring immersive 3D elements.<br>*   **Jewelry E-Commerce Platform** – A sleek, responsive frontend structure tailored for retail and product showcasing.<br>*   **Gesture-to-Speech Translator** – A Python-based project bridging accessibility and technology through automation.<br>*   **Dynamic UI Login Pages** – Clean, modern, and highly responsive user authentication interfaces.<br><br>---<br><br>### 🏆 Achievements & Leadership<br>*   **Team Leader** – Led student teams in regional hackathons and technology expos.<br>*   **Campus Ambassador** – Represented premium techno-management fests to foster student engagement.<br>*   **Class Representative** – Managed student-faculty coordination and operational leadership.<br><br>---<br><br>### 🤝 Connect with Me<br><br><p align="left"><br>  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><br>    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>  </a><br></p><br><br>*👉 Feel free to star my repositories if you find my work helpful!*
+# Hi there, I'm Sachin! 👋
+
+I am an undergraduate Computer Science Engineering student passionate about Web Development, Software Engineering, and building interactive digital experiences. Dedicating my efforts to turning complex problems into clean, efficient frontend and backend code while actively participating in hackathons and technical expos.
+
+Backend & Core Languages : Python, Java, JavaScript, C++, C, C#
+Web Development & Frontend : HTML5, Angular.js, FastAPI
+Libraries & Frameworks : Pandas, NumPy, PyTorch, TensorFlow
+Databases : MySQL
+Cloud & DevOps : AWS, GitHub Actions, Git, GitHub
+Tools & Platforms : VS Code, IntelliJ, PyCharm, Adobe, Canva
 
 
 ## 🌐 Socials:
